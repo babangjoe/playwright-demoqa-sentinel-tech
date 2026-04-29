@@ -8,7 +8,8 @@
 ## 📦 Installation
 ``` bash
 npm install
-npx playwright install
+
+npx playwright install chromium firefox
 ```
 
 ## ▶️ Run Test
