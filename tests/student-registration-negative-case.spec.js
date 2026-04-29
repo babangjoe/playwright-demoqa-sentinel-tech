@@ -14,7 +14,7 @@ test.describe('Student Registration Form - Negative Cases', () => {
         lastName: 'Doe',
         email: 'john.doe@example.com',
         gender: 'Male',
-        mobile: '1234567890',
+        mobile: '12345678',
         dateOfBirth: '20 Jun 2002',
         subjects: ['Maths', 'Physics', 'Computer Science'],
         hobbies: ['Sports', 'Reading'],
