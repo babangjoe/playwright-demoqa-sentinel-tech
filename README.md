@@ -13,7 +13,11 @@ npx playwright install chromium firefox
 ```
 
 ## ▶️ Run Test
+``` bash
 npx playwright test
+```
 
 ## 📊 Generate Report
+``` bash
 npx playwright show-report
+```
